@@ -1,0 +1,5 @@
+This is our minesweeper capstone done by Aram Leblebjian & Joseph Alakach.
+best.h5 is our trained RL model.
+To re-train a new model, run the Train.ipynb
+To analyze results and understand the code, run Minesweeper_play.ipynb
+To see our AI play the game, install python, keras, tensorflow on your device. Then, go to the directory where you have our model and the Minesweeper_play.py file, and run on cmd: python Minesweeper_play.py
